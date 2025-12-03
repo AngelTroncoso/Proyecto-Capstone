@@ -10,16 +10,6 @@
 - [Arquitectura del Sistema](#arquitectura-del-sistema)
 - [Componentes Principales](#componentes-principales)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Instalación y Configuración](#instalación-y-configuración)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Casos de Uso](#casos-de-uso)
-- [Datasets Utilizados](#datasets-utilizados)
-- [Evaluación y Métricas](#evaluación-y-métricas)
-- [Resultados](#resultados)
-- [Trabajo Futuro](#trabajo-futuro)
-- [Contribuidores](#contribuidores)
-- [Licencia](#licencia)
-
 ---
 
 ## 🎯 Descripción General
